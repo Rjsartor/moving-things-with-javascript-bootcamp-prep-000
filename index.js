@@ -25,7 +25,6 @@ document.addEventListener('keydown', function(e) {
     moveDodgerLeft()
   } else if (e.which === 39) {
     moveDodgerRight()
-    
   }
 })
 
